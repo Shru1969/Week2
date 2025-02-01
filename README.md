@@ -1,2 +1,2 @@
 # Week2
-#visualization and data modal with graps
+visualization and data modal with graphs
